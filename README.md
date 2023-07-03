@@ -1,5 +1,9 @@
 ### Hi there I'm Seungbin👋
 
+<h3>Nice to meet you! Currently I'm highschooler in Korea and i am interested in coding! I'd like to introduce you to the Javascript projects I've done. Thank you!! 🥰</h3>
+
+
+
 
 <h2>🌱 Currently Using</h2>
 <h4>Languages</h4>

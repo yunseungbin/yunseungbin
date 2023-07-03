@@ -62,7 +62,7 @@
 
 <h2>Contact</h2>
 <div> 
-  <a href="https://www.instagram.com/web_coding_05/">
+  <a href="https://www.instagram.com/web_coding_05/" target="_blank">
 <img alt="instagram" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
